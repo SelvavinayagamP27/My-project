@@ -1,0 +1,12 @@
+.main-bg {
+  background: linear-gradient(to bottom, #1e00ff, #ffffff);
+}
+
+.text-pink {
+  color: #ee0bb5;
+  font-weight: bold;
+}
+
+.container {
+  border-radius: 20px;
+}
